@@ -80,6 +80,12 @@ Contributions are always welcome! If you'd like to contribute to the Hospital Ma
 5. Push your changes to your forked repository.
 6. Open a pull request, providing a detailed description of your changes.
 
+## Collaborators
+
+1. [Mostafa](https://github.com/MOSTAFA-0-1) - Flutter GUI and PHP API development
+2. [Yasmin](https://github.com/..) - SQL, ERD model, triggers, normalization.
+3. [Hager](https://github.com/HagarOsama) - SQL, ERD model, triggers, normalization.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
