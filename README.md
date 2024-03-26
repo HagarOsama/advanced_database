@@ -83,8 +83,8 @@ Contributions are always welcome! If you'd like to contribute to the Hospital Ma
 ## Collaborators
 
 1. [Mostafa](https://github.com/MOSTAFA-0-1) - Flutter GUI and PHP API development
-2. Yasmin SQL, ERD model, triggers, normalization.
-3. [Hager](https://github.com/HagarOsama) - SQL, ERD model, triggers, normalization.
+2. Yasmin SQL, ERD model, relational schema, triggers and normalization.
+3. [Hager](https://github.com/HagarOsama) - SQL, ERD model, relational schema, logical model, index and normalization.
 
 ## License
 
